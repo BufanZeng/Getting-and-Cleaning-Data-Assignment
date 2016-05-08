@@ -1,0 +1,16 @@
+# Code Book
+x_test			the table from the file x_text.txt
+y_test			the table from the file y_text.txt
+subject_test		the table from the file subject_text.txt
+x_train			the table from the file x_train.txt
+y_train			the table from the file y_train.txt
+subject_train		the table from the file subject_train.txt
+features		the table from the file features.txt
+activity_labels 	the table from the file activity_labels.txt"
+data			the combined data of test and train measurements
+featureswanted		the location of the wanted features, which are the means and stds
+featureswanted.names	the name of the wanted features
+test			the combined data of the test subjects and activities
+train			the combined data of the train subjects and activities
+data1			the combined data of test and train subjects and activities
+alldata			the combined data of the subjects, activities and the measurements
